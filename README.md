@@ -120,8 +120,8 @@ This folder covers some of the most important algorithms that are commonly used 
 
 ## URI Problem Solve
 
-This folder contains my solutions to problems on the URI Online Judge platform. I have included a link to my account on the platform in the folder description.
+This folder contains solutions to problems from [URI Online Judge](https://www.urionlinejudge.com.br), a website that hosts programming contests and problems. The solutions are written in Python and cover various topics such as data structures, algorithms, and mathematical problems. My URI account link is [here](https://www.beecrowd.com.br/judge/en/profile/800882), where you can see my submissions and progress.
 
 ---
 
-Thank you for checking out my Python Programming Repository. I hope you find it helpful and informative. If you have any suggestions or feedback, please feel free to let me know.
+Thank you for checking out my Python Programming Repository. The Python Programming Repository is an excellent resource for anyone looking to learn more about Python programming. It provides valuable information and examples to help beginners and experienced programmers improve their skills. Start exploring this repository today and take your Python programming skills to the next level. If you have any suggestions or feedback, please feel free to let me know.
